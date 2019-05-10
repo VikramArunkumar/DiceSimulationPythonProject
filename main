@@ -22,7 +22,7 @@ def main():
 
         print(b)
 
-        print("The sum of the two are:")
+        print("The sum of the two numbers is:")
 
         print(a + b)
 
